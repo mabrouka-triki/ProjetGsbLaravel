@@ -1,0 +1,38 @@
+/*
+    Nom du fichier : monStyle.css
+    Auteur : cpont
+    Date de création : 25 sept. 2017, 14:53:52
+    Description : Styles pour le site web
+*/
+
+/* Réinitialisation des styles par défaut */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style de la barre de navigation */
+.navbar {
+    background-color: #333; /* Couleur de fond */
+    color: #fff; /* Couleur du texte */
+    padding: 15px 0; /* Espacement intérieur */
+}
+
+/* Espacement pour la barre de navigation fixe */
+body {
+    padding-top: 70px;
+    min-height: 2000px;
+}
+
+/* Espacement pour les sections */
+.espace {
+    background-color: transparent;
+    height: 50px;
+}
+
+/* Style pour la page d'accueil */
+#homepage {
+    margin-top: 100px;
+}
+
+/* Ajoutez ici d'autres styles pour votre site web */
