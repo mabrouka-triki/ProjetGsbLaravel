@@ -58,5 +58,3 @@ Ce projet est une application web développée avec **Laravel** permettant la ge
 ```
 
 ---
-
-Ce `README.md` est bien structuré, professionnel et adapté pour un dépôt GitHub. Il décrit le projet, ses fonctionnalités, les technologies utilisées, l'accès et l'installation. 🚀
